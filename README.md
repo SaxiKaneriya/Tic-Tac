@@ -23,7 +23,7 @@ Ensure you have Python installed on your system. This game requires Tkinter, whi
 2. Navigate to the folder containing the script.
 3. Run the script using Python:
    ```sh
-   python tic_tac_toe.py
+   python tic.py
    ```
 
 ## How to Play
